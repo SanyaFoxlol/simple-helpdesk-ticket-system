@@ -1,0 +1,14 @@
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\bin\Debug\net10.0\simple helpdesk ticket system.exe
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\bin\Debug\net10.0\simple helpdesk ticket system.deps.json
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\bin\Debug\net10.0\simple helpdesk ticket system.runtimeconfig.json
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\bin\Debug\net10.0\simple helpdesk ticket system.dll
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\bin\Debug\net10.0\simple helpdesk ticket system.pdb
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.AssemblyInfoInputs.cache
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.AssemblyInfo.cs
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.csproj.CoreCompileInputs.cache
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.dll
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\refint\simple helpdesk ticket system.dll
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.pdb
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\simple helpdesk ticket system.genruntimeconfig.cache
+C:\Users\nitru\source\repos\simple helpdesk ticket system\simple helpdesk ticket system\obj\Debug\net10.0\ref\simple helpdesk ticket system.dll
